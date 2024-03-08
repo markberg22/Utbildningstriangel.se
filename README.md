@@ -14,10 +14,17 @@
 <img src="https://github.com/markberg22/Utbildningstriangel.se/assets/162043494/909494d9-15d6-45aa-9981-035c2bc28427" width="700" height="140">
 
 
-  
+
+
 
 ## Läxhjälp för 225kr/h
  Bättre betalt för studenterna, biliggare för er. 
+
+  | Utbildningstriangeln       | Största läxhjälpsservicen          |
+| ------------- |:-------------:|
+|       | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      | 
 
 ## Vårt koncept 
  Vi tre studenter bakom Utbildningstriangeln jobbar inom läxhjälpsbranschen.  
